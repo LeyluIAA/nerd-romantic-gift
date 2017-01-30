@@ -1,0 +1,6 @@
+[package]
+name = "nerd-gift"
+version = "0.1.0"
+authors = ["leyluiaa <leyluiaa@outlook.com>"]
+
+[dependencies]
